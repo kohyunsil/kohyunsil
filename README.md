@@ -5,7 +5,8 @@
 <img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/-rh523%40kakao.com-black"/>
 ----
 
-###### 👋 Hi there! I'm learning Data Analysis and Data Science 🧐 <br>
+###### 👋 Hi there! <br>
+    I'm learning Data Analysis and Data Science 🧐
     I enjoy walking, swimming and.. etc
     Please Feel free to contact me if you have further inquires.
 
