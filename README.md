@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hyun%20Sil&fontSize=70&animation=fadeIn&fontAlign=80&nbsp&fontAlignY=50)
-
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hyun%20Sil&fontSize=50&animation=fadeIn&fontAlign=80&nbsp&fontAlignY=35&rotate=13)
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
