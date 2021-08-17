@@ -6,7 +6,6 @@
 ### <p align="center">🛠 Tech Stack 🛠<br>
 <p align="center">Techs that I've used at least once</p>
 <br>
-<br>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
@@ -19,6 +18,8 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 </p>
+
+### <p align="center"> Team Collaboration Tool 👩‍💻🧑🏻‍💻👨‍💻 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/></a>
