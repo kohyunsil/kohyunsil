@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![SIRI's GitHub stats](https://github-readme-stats.vercel.app/api?username=kohyunsil)](https://github.com/kohyunsil/github-readme-stats)
 <!--
 **kohyunsil/kohyunsil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
